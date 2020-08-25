@@ -6,3 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Master is changed in due time AGAIN
 Sample website with plenty of files for demos
+Adding new changes
